@@ -11,7 +11,7 @@ def formatear_nombre(nombre: str, apellido1: str, apellido2: str) -> str:
     apellido1 = apellido1.title().strip()
     apellido2 = apellido2.title().strip()
 
-    return f"{nombre, apellido1, apellido2}"
+    return f"{nombre} {apellido1} {apellido2}"
 
 def main():
 
