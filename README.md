@@ -1,5 +1,5 @@
 # 2627-pr-anavtui-nombCompleto
-# Desarrolla un programa en Python que solicite el nombre, el primer apellido y el segundo apellido de una persona y muestre su nombre completo correctamente formateado.
+Desarrolla un programa en Python que solicite el nombre, el primer apellido y el segundo apellido de una persona y muestre su nombre completo correctamente formateado.
 
 Implementa la siguiente función:
 
